@@ -5,7 +5,7 @@ The final project of Advanced Language Programming Practice of Tongji University
 
 纯手搓代码，当年还不会用ai (Handwritten code without AI tools).
 
-## 📖 项目简介
+## 📖 About the project
 使用了沈老师给出的图形化工具，cct和gmw我记得好像是（因为是两年前的作业有些忘记了）
 
 90-01-b1是hanoi图形化游戏
@@ -27,7 +27,7 @@ The final project of Advanced Language Programming Practice of Tongji University
 <img width="500" height="550" alt="baf804077d073b83e25aad736f50057d" src="https://github.com/user-attachments/assets/340f136c-5fe3-4bb6-b413-fbfebc85f6b0" />
 
 
-## 🛠️ 技术栈与开发环境
-- **编程语言**: C++ / C
-- **开发工具**: Visual Studio 2022
-- **图形库**: cct and gmw provided by the lecturer
+## 🛠️ Tech Stack & Development Environment
+- **Programming Language**: C++ / C
+- **Development Tool**: Visual Studio 2022
+- **Graphics Library**: `cct` and `gmw` (provided by the lecturer)
