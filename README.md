@@ -2,18 +2,13 @@
 
 > 同济大学高级语言程序设计期末大作业 (2024.6)
 > The final project of Advanced Language Programming Practice of Tongji University. 
-> 💡 **Highlight**: 纯手搓代码，独立设计实现 (Handwritten code without AI tools).
+> 纯手搓代码，当年还不会用ai (Handwritten code without AI tools).
 
 ## 📖 项目简介
-（在这里用两三句话介绍一下你的游戏：这是一个什么类型的游戏？例如：这是一个基于 C++ 开发的 2D 动作闯关游戏 / 经典坦克大战的复刻版。核心玩法是什么？）
-
-## ✨ 核心功能
-- **功能点 1**：（例如：实现了基于物理引擎的碰撞检测）
-- **功能点 2**：（例如：包含 3 个不同难度的关卡设计）
-- **功能点 3**：（例如：实现了玩家分数的本地存储和排行榜）
-- **功能点 4**：（例如：支持双人本地键盘联机）
+使用了沈老师给出的图形化工具，cct和gmw我记得好像是（因为是两年前的作业有些忘记了）
+90-01-b1是hanoi图形化游戏，90-01-b2是magic balls图形化游戏，90-02-b1也是magic balls，但是更完整，图形更加丰富
 
 ## 🛠️ 技术栈与开发环境
 - **编程语言**: C++ (94.8%) / C (5.0%)
-- **开发工具**: Visual Studio (请改成你用的版本，如 2022)
-- **图形库**: (如果你用到了图形库，请写在这里，比如 `EasyX`, `SDL`, `OpenGL`，如果没有或者纯控制台就删掉这行)
+- **开发工具**: Visual Studio 2022
+- **图形库**: cct and gmw provided by the lecturer
